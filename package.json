@@ -1,0 +1,11 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "testing the videoshow lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ferreraa",
+  "license": "ISC"
+}
